@@ -78,6 +78,7 @@
 // const bonuses = {
 //     'C++': 100,
 //     Rust: 150,
+//     default: 50; 
 // }
 // const gradeTax = {
 //     [grades.Junior]: 0.25,
@@ -97,7 +98,6 @@
 //     this.salary = 1000;
 //     this.language = language;
 //     this.tasks = 0;
-//     this.default = 50; // так не точно 
 
 //     this.addTask = () => {
 //         this.tasks++;
